@@ -136,7 +136,7 @@ export default function App() {
           {/* Logo */}
           <div className="flex items-center gap-3 shrink-0">
             <img
-              src="/sanfog-logo.png"
+              src="/sanfog-logo.svg"
               alt="Sanfog"
               className="h-9 w-auto object-contain"
             />
@@ -266,7 +266,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2 text-xs text-gray-400">
             <img
-              src="/sanfog-logo.png"
+              src="/sanfog-logo.svg"
               alt="Sanfog"
               className="h-5 w-auto opacity-50"
             />

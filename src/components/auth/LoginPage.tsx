@@ -53,7 +53,7 @@ export function LoginPage() {
         {/* Logos */}
         <div className="text-center mb-8">
           <img
-            src="/sanfog-logo.png"
+            src="/sanfog-logo.svg"
             alt="Sanfog"
             className="h-12 mx-auto mb-4 object-contain"
           />
