@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 454 454">
-  <!-- Upper dark navy semicircle -->
-  <path d="M 37,227 A 190,190 0 0 0 417,227 Z" fill="#0d2d4a"/>
-  <!-- Lower cyan semicircle -->
-  <path d="M 37,227 A 190,190 0 0 1 417,227 Z" fill="#00b4d4"/>
-  <!-- White inner circle creates ring/donut effect -->
-  <circle cx="227" cy="227" r="82" fill="white"/>
-</svg>
